@@ -6,3 +6,4 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 - **MINOR** version when you add functionality in a backward compatible manner
 - **PATCH** version when you make backward compatible bug fixes
 - **Addit**ional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+done
